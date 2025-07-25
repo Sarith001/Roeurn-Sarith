@@ -32,5 +32,17 @@
     "prettier": "3.5.3",
     "vite": "^6.2.4",
     "vite-plugin-vue-devtools": "^7.7.2"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarith001/front_end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarith001/front_end/issues"
+  },
+  "homepage": "https://github.com/Sarith001/front_end#readme"
 }
